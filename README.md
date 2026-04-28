@@ -1,0 +1,1 @@
+With this script, I achieved 93% accuracy, up from 85%, by using Random Forest Classifier(also Deep Neural Network gave 90%), in predicting Loan defaults. Also since the dataset was imbalanced, SMOTE technique has been employed.
